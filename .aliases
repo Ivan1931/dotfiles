@@ -1,0 +1,8 @@
+#!/bin/bash
+
+alias v="/usr/bin/nvim"
+alias vc="$EDITOR $HOME/.config/nvim/init.vim"
+alias p="pushd @> /dev/null"
+alias b="popd  @> /dev/null"
+alias zc="$EDITOR $HOME/.zshrc"
+alias rr="source $HOME/.zshrc"
